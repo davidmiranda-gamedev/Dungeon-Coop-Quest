@@ -138,7 +138,7 @@ Watch a short gameplay demonstration showcasing room creation, multiplayer synch
 
 🎥 Dungeon Coop Quest Gameplay Demo
 
-[Watch Gameplay Demo](YOUR_VIDEO_LINK)
+[Watch Gameplay Demo](https://drive.google.com/file/d/1XUWn_9cA8LCuW5NgX_PvY-K91PEmX5-t/view?usp=sharing)
 
 ---
 
