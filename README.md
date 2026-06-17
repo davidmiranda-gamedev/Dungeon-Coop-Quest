@@ -98,7 +98,7 @@ Built for Windows and macOS desktop platforms.
 <tr>
 <td align="center">
 <b>Main Menu</b><br>
-<img src="screenshots/main-menu.png" width="250">
+<img src="main-menu.png" width="250">
 </td>
 
 <td align="center">
