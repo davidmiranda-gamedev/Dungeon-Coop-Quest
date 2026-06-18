@@ -44,6 +44,20 @@ This project provided hands-on experience with multiplayer architecture and netw
 
 ---
 
+## Technical Architecture
+
+The multiplayer architecture was built using Photon PUN and focused on synchronizing player movement, room state management, and network events across multiple connected clients.
+
+Core networking systems include:
+
+- Room Creation and Joining
+- Networked Player Spawning
+- RPC Communication
+- Player State Synchronization
+- Session Lifecycle Management
+
+---
+
 ## Core Gameplay
 
 ### Create Multiplayer Rooms
